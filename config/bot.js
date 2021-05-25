@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODE1MDk2MjQxMTA0NDg2NDAx.YDnbhw.KegrI1qzzzN1CvaBQgowk14doMc',
+        token: 'ODQ2NTg4ODE5MDk2MDc2Mjg5.YKxtRw.jL6zmCBlhdW41u1lQx3FNw2NdFg',
         prefix: ',',
         activity: 'CORONA BHAAG JA',
     },
